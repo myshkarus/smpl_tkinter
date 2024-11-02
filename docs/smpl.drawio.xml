@@ -1744,7 +1744,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cVQKnXSO1cfGgSP-Fa1g-279" value="&lt;font color=&quot;#00994d&quot; style=&quot;font-size: 14px;&quot;&gt;contact preferences&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;backgroundOutline=0;swimlaneFillColor=#eff6ee;rotatable=1;" parent="1" vertex="1">
-          <mxGeometry x="-450" y="-3610" width="470" height="720" as="geometry">
+          <mxGeometry x="-1169" y="-3480" width="470" height="720" as="geometry">
             <mxRectangle x="-450" y="-3610" width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
