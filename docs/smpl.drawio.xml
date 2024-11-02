@@ -1743,9 +1743,9 @@
         <mxCell id="cVQKnXSO1cfGgSP-Fa1g-304" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;entryX=1.011;entryY=0.182;entryDx=0;entryDy=0;endArrow=ERmandOne;endFill=0;startArrow=ERmandOne;startFill=0;entryPerimeter=0;" parent="YMvXorHo-SfZO619zqiy-39" source="kwx6Rd_udU-L7NW5TWeS-75" target="kwx6Rd_udU-L7NW5TWeS-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cVQKnXSO1cfGgSP-Fa1g-279" value="&lt;font color=&quot;#00994d&quot; style=&quot;font-size: 14px;&quot;&gt;contact preferences&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;backgroundOutline=0;swimlaneFillColor=#eff6ee;rotatable=1;" parent="1" vertex="1">
-          <mxGeometry x="-1169" y="-3480" width="470" height="720" as="geometry">
-            <mxRectangle x="-450" y="-3610" width="200" height="40" as="alternateBounds" />
+        <mxCell id="cVQKnXSO1cfGgSP-Fa1g-279" value="&lt;font color=&quot;#00994d&quot; style=&quot;font-size: 14px;&quot;&gt;contact preferences&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;backgroundOutline=0;swimlaneFillColor=#eff6ee;rotatable=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-2080" y="-2870" width="470" height="720" as="geometry">
+            <mxRectangle x="-2020" y="-3750" width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kwx6Rd_udU-L7NW5TWeS-266" value="timezone" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;swimlaneFillColor=default;" parent="cVQKnXSO1cfGgSP-Fa1g-279" vertex="1">
@@ -2349,8 +2349,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="afriy_VQ3doWPkMtccSN-263" value="party data" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;swimlaneFillColor=#EFF6EE;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-2310" y="-3750" width="1120" height="650" as="geometry">
+        <mxCell id="afriy_VQ3doWPkMtccSN-263" value="&lt;font color=&quot;#00994d&quot;&gt;party data&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;swimlaneFillColor=#EFF6EE;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-2080" y="-3544" width="1120" height="650" as="geometry">
             <mxRectangle x="-2310" y="-3750" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
